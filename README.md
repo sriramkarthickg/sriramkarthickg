@@ -1,6 +1,6 @@
 # <b>Hey, 👋&nbsp; I'm Sriram</b>
 <br>
-<img align="right" src="https://github.com/sriramgroot/sriramgroot/blob/main/github-overview-profile.png" width="150"/>
+<img align="right" src="https://github.com/sriramkarthickg/sriramkarthickg/blob/main/github-overview-profile.png" width="150"/>
 <p align="left">
   <p>Welcome!!!</br>
   I'm Sriram Karthick, Frontend Developer from 🇮🇳 <b>India</b>.</p>
@@ -43,7 +43,7 @@
 
 <h2>🌎 &nbsp;Catch me here</h2>
 <p>
-  <a href="https://github.com/sriramgroot" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://github.com/sriramkarthickg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://in.linkedin.com/in/sriramkarthick/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dribbble.com/sriramkarthick/" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/-dribbble-%23ea4c89.svg?&style=for-the-badge&logo=dribbble&logoColor=ffffff" /></a>
 
@@ -52,8 +52,8 @@
 <h2>📈 &nbsp;My Github Stats</h2>
 
 <p align="left">
-<a href="https://github.com/sriramgroot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sriramgroot&show_icons=true&hide_border=true&bg_color=040d21&title_color=165df5&icon_color=165df5&text_color=FFFFFF"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=sriramgroot&hide_border=true&theme=black-ice&background=040d21&stroke=165df5"/>
+<a href="https://github.com/sriramkarthickg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sriramkarthickg&show_icons=true&hide_border=true&bg_color=040d21&title_color=165df5&icon_color=165df5&text_color=FFFFFF"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=sriramkarthickg&hide_border=true&theme=black-ice&background=040d21&stroke=165df5"/>
 </a>
 </p>
